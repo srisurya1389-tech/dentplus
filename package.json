@@ -1,0 +1,10 @@
+{
+  "name": "dentplus-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Dent Plus Multispeciality Dental & Family Clinic, Guntur: website, booking API and admin panel",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "serve": "vercel dev --local --yes --listen 3000"
+  }
+}
